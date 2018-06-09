@@ -1,0 +1,10 @@
+SF_OpenStreetMap_project.pdf : pdf file for going though the project rubric 
+database_preparation.py : main python script to clean the dataset and store into SQL
+get_city.py : function for extracting city names 
+get_streetname.py : function for extracting street names
+get_tiger_county.py : function for extracting tiger 
+get_zipcode.py : function for extracting zipcode
+sf_osm_sample.osm : San Francisco/Bay Area osm file (9.4M)
+
+
+
