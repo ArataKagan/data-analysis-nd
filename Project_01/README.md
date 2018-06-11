@@ -1,4 +1,4 @@
-##Inferential Statistics Project: Test A Perceptual Phenomenon
+<H1>Inferential Statistics Project: Test A Perceptual Phenomenon</H1>
 
 In this project, I will investigate a classic phenomenon from experimental
 psychology called the Stroop Effect. Please refer to <a href='https://www.verywellmind.com/what-is-the-stroop-effect-2795832'> this link </a>
