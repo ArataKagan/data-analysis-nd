@@ -3,7 +3,7 @@
 As part of the Udacity Data Analysis Nanodegree's Intro to Data Analysis project, 
 I will examine the Titanic Survival rate dataset. 
 
-This dataset contains the following columns:
+<h3>This dataset contains the following columns:</h3>
 
 Passenger ID: the number that differentiates passengers<br>
 Survived: Whether the passenger survived the accident or not (independent variable)<br>
