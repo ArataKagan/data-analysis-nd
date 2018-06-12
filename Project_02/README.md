@@ -5,10 +5,10 @@ I will examine the Titanic Survival rate dataset.
 
 This dataset contains the following columns:
 
-Passenger ID: the number that differentiates passengers
-Survived: Whether the passenger survived the accident or not (independent variable)
-0 = No, 1 = Yes
-Pclass: Passenger class which indicates the passenger's socioeconomic class.
+Passenger ID: the number that differentiates passengers<br>
+Survived: Whether the passenger survived the accident or not (independent variable)<br>
+0 = No, 1 = Yes<br>
+Pclass: Passenger class which indicates the passenger's socioeconomic class.<br>
 1 = 1st, 2 = 2nd, 3 = 3rd
 Name: Passenger's name
 Sex: Passenger's gender
