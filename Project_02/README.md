@@ -9,21 +9,21 @@ Passenger ID: the number that differentiates passengers<br>
 Survived: Whether the passenger survived the accident or not (independent variable)<br>
 0 = No, 1 = Yes<br>
 Pclass: Passenger class which indicates the passenger's socioeconomic class.<br>
-1 = 1st, 2 = 2nd, 3 = 3rd
-Name: Passenger's name
-Sex: Passenger's gender
-Age: Passenger's age
-SibSp: Number of siblings and spouses.
-Sibling = brother, sister, stepbrother, stepsister
-Spouse = husband, wife (mistresses and fiancés were ignored)
-Parch: Number of parents and children.
-Parent = mother, father
-Child = daughter, son, stepdaughter, stepson
-Some children travelled only with a nanny, therefore parch=0 for them.
-Ticket: Passenger's ticket number
-Fare: The price of fare the passenger paid for
-Cabin: Passenger's cabin number
-Embarked: The port the passenger embarked from
-S: Southampton, C = Cherbourg, Q = Queenstown
+1 = 1st, 2 = 2nd, 3 = 3rd<br>
+Name: Passenger's name<br>
+Sex: Passenger's gender<br>
+Age: Passenger's age<br>
+SibSp: Number of siblings and spouses.<br>
+Sibling = brother, sister, stepbrother, stepsister<br>
+Spouse = husband, wife (mistresses and fiancés were ignored)<br>
+Parch: Number of parents and children.<br>
+Parent = mother, father<br>
+Child = daughter, son, stepdaughter, stepson<br>
+Some children travelled only with a nanny, therefore parch=0 for them.<br>
+Ticket: Passenger's ticket number<br>
+Fare: The price of fare the passenger paid for<br>
+Cabin: Passenger's cabin number<br>
+Embarked: The port the passenger embarked from<br>
+S: Southampton, C = Cherbourg, Q = Queenstown<br>
 
 If the ipython notebook doesn't get rendered, please paste the Github URL to <a href='https://nbviewer.jupyter.org/'>this link</a>.
