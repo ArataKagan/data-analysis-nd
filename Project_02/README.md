@@ -26,4 +26,6 @@ Cabin: Passenger's cabin number<br>
 Embarked: The port the passenger embarked from<br>
 S: Southampton, C = Cherbourg, Q = Queenstown<br>
 
+<a href ='https://www.kaggle.com/c/titanic/data'> The link to the dataset</a> 
+
 If the ipython notebook doesn't get rendered, please paste the Github URL to <a href='https://nbviewer.jupyter.org/'>this link</a>.
