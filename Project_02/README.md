@@ -19,7 +19,7 @@ I will examine the Titanic Survival rate dataset.
 `Parch`: Number of parents and children.<br>
 `Parent` = mother, father<br>
 `Child` = daughter, son, stepdaughter, stepson<br>
-Some children travelled only with a nanny, therefore parch=0 for them.<br>
+Some children travelled only with a nanny, therefore `parch`=0 for them.<br>
 `Ticket`: Passenger's ticket number<br>
 `Fare`: The price of fare the passenger paid for<br>
 `Cabin`: Passenger's cabin number<br>
