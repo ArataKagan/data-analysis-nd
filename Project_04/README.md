@@ -1,5 +1,7 @@
 <h1>Red Wine Exploratory Data Analysis with R</h1>
 
+Please refer to <a href='http://rpubs.com/aratakagan0412/396761'>this link</a> for the project.
+
 In this project, I am going to conduct an exploratory data analysis for red wine dataset and create an RMD file that explores the variables, structure, patterns, oddities, and underlying relationships of chemical properties to examine what causes better quality of red wines.
 
 This dataset has 1599 observations. The following are descriptions of each variable:
@@ -27,6 +29,3 @@ This dataset has 1599 observations. The following are descriptions of each varia
 11 - `Alcohol`: the percent alcohol content of the wine.
 
 12 - `Quality` (score between 0 and 10.)
-
-
-Please refer to <a href='http://rpubs.com/aratakagan0412/396761'>this link</a> for the project.
