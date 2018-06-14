@@ -1,16 +1,17 @@
 <h1>Wrangle OpenStreetMap Data Project</h1>
 
+In this project, I use data munging techniques, such as assessing the quality of the data for validity, 
+accuracy, completeness, consistency and uniformity, to clean the OpenStreetMap data for 
+San Francisco/Bay Area. 
+
+Please refer to <a href='https://wiki.openstreetmap.org/wiki/About_OpenStreetMap'>this link</a> for more detail about the OpenStreetMap.
+
 <ol>
 <li>Assess the quality of the data for validity, accuracy, completeness, consistency and uniformity.</li>
 <li>Parse and gather data from popular file formats such as .csv, .json, .xml, and .html</li>
 <li>Process data from multiple files or very large files that can be cleaned programmatically.</li>
-<li>Learn how to store, query, and aggregate data using MongoDB or SQL.</li>
+<li>Learn how to store, query, and aggregate data using SQL.</li>
 </ol>
-
-In this project, use data munging techniques, such as assessing the quality of the data for validity, 
-accuracy, completeness, consistency and uniformity, to clean the OpenStreetMap data for 
-San Francisco/Bay Area. 
-
 
 <h3>File directories</h3>
 
