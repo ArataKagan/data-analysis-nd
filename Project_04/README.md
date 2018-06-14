@@ -26,7 +26,7 @@ This dataset has 1599 observations. The following are descriptions of each varia
 
 11 - `Alcohol`: the percent alcohol content of the wine.
 
-12 - Quality (score between 0 and 10.)
+12 - `Quality` (score between 0 and 10.)
 
 
 Please refer to <a href='http://rpubs.com/aratakagan0412/396761'>this link</a> for the project.
