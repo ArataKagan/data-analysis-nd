@@ -15,16 +15,16 @@ I will examine the Titanic Survival rate dataset.
 `Age`: Passenger's age<br>
 `SibSp`: Number of siblings and spouses.<br>
 `Sibling` = brother, sister, stepbrother, stepsister<br>
-Spouse = husband, wife (mistresses and fiancés were ignored)<br>
-Parch: Number of parents and children.<br>
-Parent = mother, father<br>
-Child = daughter, son, stepdaughter, stepson<br>
+`Spouse` = husband, wife (mistresses and fiancés were ignored)<br>
+`Parch`: Number of parents and children.<br>
+`Parent` = mother, father<br>
+`Child` = daughter, son, stepdaughter, stepson<br>
 Some children travelled only with a nanny, therefore parch=0 for them.<br>
-Ticket: Passenger's ticket number<br>
-Fare: The price of fare the passenger paid for<br>
-Cabin: Passenger's cabin number<br>
-Embarked: The port the passenger embarked from<br>
-S: Southampton, C = Cherbourg, Q = Queenstown<br>
+`Ticket`: Passenger's ticket number<br>
+`Fare`: The price of fare the passenger paid for<br>
+`Cabin`: Passenger's cabin number<br>
+`Embarked`: The port the passenger embarked from<br>
+`S`: Southampton, `C` = Cherbourg, `Q` = Queenstown<br>
 
 <a href ='https://www.kaggle.com/c/titanic/data'> The link to the dataset</a> 
 
