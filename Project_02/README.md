@@ -6,15 +6,15 @@ I will examine the Titanic Survival rate dataset.
 <h3>This dataset contains the following columns:</h3>
 
 `Passenger ID`: the number that differentiates passengers<br>
-Survived: Whether the passenger survived the accident or not (independent variable)<br>
-0 = No, 1 = Yes<br>
-Pclass: Passenger class which indicates the passenger's socioeconomic class.<br>
-1 = 1st, 2 = 2nd, 3 = 3rd<br>
-Name: Passenger's name<br>
-Sex: Passenger's gender<br>
-Age: Passenger's age<br>
-SibSp: Number of siblings and spouses.<br>
-Sibling = brother, sister, stepbrother, stepsister<br>
+`Survived`: Whether the passenger survived the accident or not (independent variable)<br>
+`0` = No, `1` = Yes<br>
+`Pclass`: Passenger class which indicates the passenger's socioeconomic class.<br>
+`1` = 1st, `2` = 2nd, `3` = 3rd<br>
+`Name`: Passenger's name<br>
+`Sex`: Passenger's gender<br>
+`Age`: Passenger's age<br>
+`SibSp`: Number of siblings and spouses.<br>
+`Sibling` = brother, sister, stepbrother, stepsister<br>
 Spouse = husband, wife (mistresses and fiancés were ignored)<br>
 Parch: Number of parents and children.<br>
 Parent = mother, father<br>
