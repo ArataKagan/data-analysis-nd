@@ -6,6 +6,8 @@ San Francisco/Bay Area.
 
 Please refer to <a href='https://wiki.openstreetmap.org/wiki/About_OpenStreetMap'>this link</a> for more detail about the OpenStreetMap.
 
+I have learnt the following points thoughout this project:
+
 <ol>
 <li>Assess the quality of the data for validity, accuracy, completeness, consistency and uniformity.</li>
 <li>Parse and gather data from popular file formats such as .csv, .json, .xml, and .html</li>
