@@ -1,7 +1,6 @@
 <h1>Titanic Dataset Investigation Project</h1>
 
-As part of the Udacity Data Analysis Nanodegree's Intro to Data Analysis project, 
-I will examine the Titanic Survival rate dataset. 
+In this project, I will examine the Titanic Survival rate dataset using Python's Numpy, Pandas, and Seaborn packages. 
 
 <h3>This dataset contains the following columns:</h3>
 
