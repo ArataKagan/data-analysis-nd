@@ -1,5 +1,7 @@
 <H1>Inferential Statistics Project: Test A Perceptual Phenomenon</H1>
 
+Please take a look documentation of my work [here](https://github.com/ArataKagan/data-analysis-nd/blob/master/Project_01/Project%201%20Test%20a%20Perceptual%20Phenomenon%20%20.ipynb). 
+
 In this project, I will investigate a classic phenomenon from experimental
 psychology called the Stroop Effect. Please refer to <a href='https://www.verywellmind.com/what-is-the-stroop-effect-2795832'> this link </a>
 for more details about the Stroop Effect. I will identify components of an experiment, use a
