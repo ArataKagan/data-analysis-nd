@@ -1,16 +1,17 @@
 Enron Project 
 
+
 Project Requirement Files:
 
-poi_id.py
+`poi_id.py`
 
-my_classifier.pkl
+`my_classifier.pkl`
 
-my_dataset.pkl
+`my_dataset.pkl`
 
-my_feature_list.pkl
+`my_feature_list.pkl`
 
-Enron_Project_Report.pdf -- Documentation of my work
+`Enron_Project_Report.pdf` -- Documentation of my work
 
 -------------------------
 Supplemental Files:
