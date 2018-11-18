@@ -1,5 +1,7 @@
 Enron Project 
 
+Please take a look at documentation of my work (here)[https://github.com/ArataKagan/data-analysis-nd/blob/master/Project_05/Enron_Project_Report.pdf]
+
 
 Project Requirement Files:
 
