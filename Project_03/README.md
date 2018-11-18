@@ -1,5 +1,7 @@
 <h1>Wrangle OpenStreetMap Data Project</h1>
 
+Please take a look at the documentation of my work [here](https://github.com/ArataKagan/data-analysis-nd/blob/master/Project_03/SF_OpenStreetMap_project.pdf).
+
 In this project, I use data munging techniques, such as assessing the quality of the data for validity, 
 accuracy, completeness, consistency and uniformity, to clean the OpenStreetMap data for 
 San Francisco/Bay Area. 
