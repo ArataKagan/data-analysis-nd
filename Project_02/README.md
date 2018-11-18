@@ -1,5 +1,7 @@
 <h1>Titanic Dataset Investigation Project</h1>
 
+Please take a look at the documentation of my work [here](https://github.com/ArataKagan/data-analysis-nd/blob/master/Project_02/Titanic_dataset_investigation.ipynb).
+
 In this project, I will examine the Titanic Survival rate dataset using Python's Numpy, Pandas, and Seaborn packages. 
 
 <h3>This dataset contains the following columns:</h3>
