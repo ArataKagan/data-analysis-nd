@@ -12,7 +12,9 @@ Thouout completing Udacity Data Analysis Nanodegree, I completed the following 6
 
 #### Project_05 : Enron Machine Learning Project
 
-#### Project_06 : Tableau Flight Delay Data Story Telling Project
+#### Project_06 : Tableau Flight Delay Data Story Telling Project 
+
+![Imgur](https://i.imgur.com/e7YsHXF.png)
 
 
 
